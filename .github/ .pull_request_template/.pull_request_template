@@ -1,0 +1,5 @@
+Thank you for your contribution to the Fabrikam Fiber repo. 
+Before submitting this PR, please make sure:
+## Покриття коду юніт-тестами
+- [ ] Усі нові функції або зміни в коді покриті юніт-тестами.
+- [ ] Існуючі тести пройшли успішно після ваших змін.

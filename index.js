@@ -147,7 +147,7 @@ bot.on('callback_query', async (query) => {
 			      onMyLocation(id, bot, query, store)
 				break;
 
-
+//commit
 				//show_near_not
 		//повернення на головну сторінку
 		case mode_app.return_home:

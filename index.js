@@ -156,6 +156,8 @@ bot.on('callback_query', async (query) => {
 			store.step1 = false;
 			store.step2 = false;
 			store.step3 = false;
+			store.step3 = false;
+			store.step3 = false;
 			console.log('Головна');
 			store.notificationArr=await getNotification();
 			await onStart(id, bot, keyboard_home, query.message.message_id);
